@@ -1,13 +1,12 @@
-p {
-    bgcolor: "yellow";
-		color: czerwony;
-		font-size: 20px;
-	}		
-
-body{
-bgcolor: "#CCFFFF";
-color: black;
-font-size: 35px;
-
+body {
+    background-color: #CFFFFF;
+    color: black;
+    font-size: 35pt;
 }
-/*Zabrocki Bartisz, klasa 2F grupa2 data spr 25.04.2024*/
+
+p {
+    background-color: yellow;
+    color: red;
+    font-size: 20pt;
+}
+/*Bartosz Zabrocki, klasa 2F grupa2 data spr 25.04.2024*/
